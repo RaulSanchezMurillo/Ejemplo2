@@ -3,7 +3,7 @@ public class Persona {
 
 	//Atributos
 	
-	int hola;
+	int holas;
 	
 	//Metodos
 }
