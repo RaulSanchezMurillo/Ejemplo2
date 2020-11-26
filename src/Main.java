@@ -3,7 +3,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		int resultado=suma(8,9);
+		int resultado=suma(9,9);
 		System.out.println("d Pepenfvvbn"+resultado);
 	}
 	
