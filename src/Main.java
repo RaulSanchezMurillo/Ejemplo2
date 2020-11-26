@@ -8,7 +8,7 @@ public class Main {
 	}
 	
 	
-	public static int suma(int n1, int n2) {
+	public static int suma(int n1, int n4) {
 		return n1+n2;
 	}
 	
