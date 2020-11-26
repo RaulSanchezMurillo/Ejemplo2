@@ -12,8 +12,8 @@ public class Main {
 		return n1+n2;
 	}
 	
-	public static int resta(int n1, int n2) {
-		return n1-n2;
+	public static int resta(int n3, int n2) {
+		return n3-n2;
 	}
 
 
