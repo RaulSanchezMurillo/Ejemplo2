@@ -3,7 +3,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		int resultado=suma(10,11);
+		int resultado=suma(10,12);
 		System.out.println("d Pepenfvvbnn"+resultado);
 	}
 	
