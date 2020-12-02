@@ -17,7 +17,7 @@ public class Main {
 	}
 	
 	public static int multiplicacion(int n3, int n2) {
-		return n3*n4;
+		return n3+n4;
 	}
 
 
