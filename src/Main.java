@@ -4,11 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		int resultado=suma(10,12);
-<<<<<<< HEAD
-		System.out.println("d PepenfvvbnnyyooTT"+resultado);
-=======
 		System.out.println("d PepenfvvbnnyyooBB"+resultado);
->>>>>>> branch 'master' of https://github.com/RaulSanchezMurillo/Ejemplo2.git
 	}
 	
 	
@@ -19,6 +15,11 @@ public class Main {
 	public static int resta(int n3, int n2) {
 		return n3-n2+1;
 	}
+	
+	public static int multiplicacion(int n3, int n2) {
+		return n3*n2;
+	}
+
 
 
 }
