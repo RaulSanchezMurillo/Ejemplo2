@@ -17,7 +17,7 @@ public class Main {
 	}
 	
 	public static int resta(int n3, int n2) {
-		return n3-n7+1;
+		return n3/n2;
 	}
 
 
